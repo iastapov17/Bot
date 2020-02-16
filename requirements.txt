@@ -1,0 +1,4 @@
+requests
+matplotlib
+psycopg2
+pyTelegramBotAPI==3.6.7

@@ -103,4 +103,5 @@ def plot_message(message):
     bot.send_message(message.chat.id, "Try again.")
 
 
-bot.polling()
+if __name__ == "__main__":
+    bot.polling()
